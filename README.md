@@ -10,14 +10,9 @@
   공동  
   - 전체적인 틀 구성  
   - 노션 관리
-- 류원창
-  - 전체적인 틀 구성
-  - 유저 (FE, BE)
-  - FE에서 DB다루기 담당
-  - 영화 전체, 장르별, 디테일 페이지 구성
-  - 감정, 랜덤 영화 추천페이지 구성
-- 이지은  
-  - 백엔드(Django API Server. 영화 API를 활용한 Data Seeding, API 가이드) & 프론트엔드 담당(Bootstrap 5, Vue.js, UI   구현, 디자인)  
+- 이지은 / 류원창 
+  - 백엔드(Django API Server. 영화 API를 활용한 Data Seeding, API 가이드) & 프론트엔드 담당(Bootstrap 5, Vue.js, UI   구현, 디자인)
+   
 
 
 # 2. 구현 할고리즘
